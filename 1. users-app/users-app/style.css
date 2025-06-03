@@ -1,0 +1,6 @@
+body { font-family: sans-serif; padding: 20px; }
+form input { margin: 5px; }
+table { margin-top: 20px; border-collapse: collapse; width: 100%; }
+th, td { padding: 8px; border: 1px solid #ccc; }
+td.editing { background-color: #ffffcc; }
+button { padding: 4px 8px; margin: 5px 0; }
